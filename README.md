@@ -32,3 +32,4 @@ Climbing</br>
 Running</br>
 Soccer</br>
 Table tennis</br>
+Ping Pong</br>
