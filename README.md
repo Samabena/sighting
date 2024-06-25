@@ -16,3 +16,4 @@ It can be about anything!
 - KLING
 - LUMA Dream Machine
 - Midjouney
+- Veed
