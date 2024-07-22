@@ -56,9 +56,12 @@ Thank you in advance for your contribution.
 
 14 - Finland
 
-15 - Peru
+16 - Singapore
 
-15 - Egypt
+17 - Peru
+
+18 - Egypt
+
 
 
 
